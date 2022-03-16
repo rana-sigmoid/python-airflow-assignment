@@ -1,0 +1,11 @@
+State,Description,Temperature,Feels_Like_Temperature,Min_Temperature,Max_Temperature,Humidity,Clouds
+Assam,clear sky,308.02,305.67,308.02,308.02,16,0
+Haryana,clear sky,311.26,308.43,311.26,311.26,11,8
+Gujarat,scattered clouds,310.86,308.15,310.86,310.86,12,33
+Maharashtra,scattered clouds,309.67,306.85,309.67,309.67,10,29
+Karnataka,overcast clouds,305.98,303.71,305.98,305.98,16,99
+Punjab,clear sky,311.38,308.68,311.38,311.38,12,5
+Rajasthan,broken clouds,309.99,307.21,309.99,309.99,11,74
+Biharia,moderate rain,280.33,277.63,278.02,280.43,93,100
+West Bengal,clear sky,306.9,304.77,306.9,306.9,19,0
+Odisha,broken clouds,305.7,303.38,305.7,305.7,13,76
